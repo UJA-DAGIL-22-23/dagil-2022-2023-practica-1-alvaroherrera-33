@@ -10,6 +10,7 @@ Tus tareas consisten en:
 
 <img src='/perfil.jpg' width='200px'>
 
-* **Web**: http://vrivas.es
-* **GitHub**: https://github.com/vrivas/
+* **GitHub**: https://github.com/alvaroherrera-33
+<img src='/iniciogithub.png' width='200px'>
+
 * **Trello**: https://trello.com/vrivas_ujaen_es

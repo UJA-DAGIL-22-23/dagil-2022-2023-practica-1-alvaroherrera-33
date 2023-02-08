@@ -13,4 +13,5 @@ Tus tareas consisten en:
 * **GitHub**: https://github.com/alvaroherrera-33
 <img src='/iniciogithub.png' width='200px'>
 
-* **Trello**: https://trello.com/vrivas_ujaen_es
+* **Trello**: https://trello.com/u/alvaroherreraarjonilla/boards
+<img src='/trelloinicial.png' width='200px'>

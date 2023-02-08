@@ -2,6 +2,8 @@
     {
       "nombre": "Álvaro",
       "apellidos": "Herrera Arjonilla",
-      "correo": "aha00026@red.ujaen.es"
+      "correo": "aha00026@red.ujaen.es",
+      "github": "https://github.com/alvaroherrera-33",
+      "imagengithub": "/iniciogithub.png"
     }
 ]

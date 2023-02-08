@@ -11,9 +11,9 @@ Tus tareas consisten en:
 <img src='/perfil.jpg' width='200px'>
 
 * **GitHub**: https://github.com/alvaroherrera-33
-<img src='/iniciogithub.png' width='200px'>
+<img src='/iniciogithub.png' width='400px'>
 
 * **Trello**: https://trello.com/u/alvaroherreraarjonilla/boards
-<img src='/trelloinicial.png' width='200px'>
+<img src='/trelloinicial.png' width='400px'>
 
-<img src='/trellofinal.png' width='200px'>
+<img src='/trellofinal.png' width='400px'>

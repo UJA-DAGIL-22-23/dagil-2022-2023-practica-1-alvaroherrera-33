@@ -15,3 +15,5 @@ Tus tareas consisten en:
 
 * **Trello**: https://trello.com/u/alvaroherreraarjonilla/boards
 <img src='/trelloinicial.png' width='200px'>
+
+<img src='/trellofinal.png' width='200px'>
